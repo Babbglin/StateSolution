@@ -1,5 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using StateLib.Infrastructure;
+using StateLib.Infrastructure.State;
 
 namespace StateTestsLib
 {
